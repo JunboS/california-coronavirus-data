@@ -1,7 +1,0 @@
-jupyterlab
-pandas
-altair
-altair-latimes
-nbclient
-nb-black
-click
